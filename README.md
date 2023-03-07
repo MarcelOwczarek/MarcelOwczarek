@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **marcelowczarek.web.app**
 
-- About comits : I don't know why you can't see them in the chart, on the my pc i have other account that published comits in vscode  to current account so maybe that was a reason but i found out that after the fact , pretty weird i now, but overall if you go to repository there is all history of comits :) for now around 100 comits for february/beginnning of march.
+- About comits : I don't know why you can't see them in the chart, on my pc i have other account that published comits in vscode  to current account so maybe that was a reason but i found out that after the fact , pretty weird i know, but overall if you go to repository there is all history of comits :) for now around 100 comits for february/beginnning of march.
 
 <p align="left">
 </p>
