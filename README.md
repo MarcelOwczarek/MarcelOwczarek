@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 >Hi 👋, I'm Marcel</h1>
+<h3 >A passionate frontend developer from Poland</h3>
 
-<!--
-**MarcelOwczarek/MarcelOwczarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my second mobile app 🚀 (3rd project) **Invoice app (codename)**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **flutter@marcelowczarek.dev**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at **marcelowczarek.web.app**
+
+- About comits : I don't know why you can't see them in the chart, on the my pc i have other account that published comits in vscode  to current account so maybe that was a reason but i found out that after the fact , pretty weird i now, but overall if you go to repository there is all history of comits :) for now around 100 comits for february/beginnning of march.
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
